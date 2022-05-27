@@ -1,0 +1,3 @@
+[submodule "themes/zenminimal"]
+	path = themes/zenminimal
+	url = https://github.com/Zenlunaris/Zenminimal.git
