@@ -1,4 +1,4 @@
-baseURL = "http://zenlunaris.dev/"
+baseURL = "zenlunaris.dev/"
 languageCode = "en-us"
 title = "Zenlunaris"
 theme = "zenminimal"
