@@ -7,6 +7,6 @@ lang: en/vi
 
 ## Research
 
-I am a postdoctoral researcher at Zuckerman Institute, Columbia working with Liam Paninski. My research interests lie at the intersection of computational neuroscience and machine learning where I focus on improving and applying deep generative models, analyzing large-scale neural recordings, and developing novel software tools for running and benchmarking automated spike sorters. Recently, I have been expanding my research to dynamical models of neural population recordings.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam bibendum magna id dui viverra maximus. Maecenas mollis magna risus, vestibulum efficitur libero venenatis at. Ut varius ipsum justo, sed consequat elit interdum quis. Nulla tincidunt malesuada purus tincidunt gravida. Praesent porta turpis ex, at fermentum augue commodo gravida. Donec pellentesque dictum felis, quis hendrerit metus tempor eleifend. Nunc ligula arcu, tincidunt in condimentum pretium, vehicula a nunc. Praesent ut odio metus. Sed nec diam neque. Donec venenatis lacus ac tellus lobortis, a gravida nisi mattis. Fusce eget odio augue. Etiam fringilla sem turpis, quis cursus lacus luctus at. Nullam mi sapien, tempor in gravida vitae, consectetur vitae dui. Duis vel neque venenatis, dignissim nulla ac, blandit urna. Nullam cursus turpis condimentum quam gravida tristique. Nunc at augue ac enim imperdiet condimentum.       
 
 ## News
