@@ -7,6 +7,7 @@ googleAnalytics = ""
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 contentDir = "content/en/"
+publishDir = "docs"
 
 [outputFormats]
     [outputFormats.RSS]
