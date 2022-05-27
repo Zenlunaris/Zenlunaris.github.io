@@ -1,4 +1,4 @@
-baseURL = "https://zenlunaris.github.io/Zenlunaris"
+baseURL = ""
 languageCode = "en-us"
 title = "Zenlunaris"
 theme = "zenminimal"
