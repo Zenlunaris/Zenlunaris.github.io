@@ -1,0 +1,137 @@
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "Zenlunaris"
+theme = "zenminimal"
+disqusShortname = "username" # delete this to disable disqus comments
+googleAnalytics = ""
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+contentDir = "content/en/"
+
+[outputFormats]
+    [outputFormats.RSS]
+        mediaType = "application/rss+xml"
+        baseName = "rss"
+
+[languages]
+  [languages.en]
+    languageName = 'EN'
+    flag = "./images/flag-usa.png"
+    weight = 1
+    contentDir = "content/en/"
+    [[languages.en.menu.main]]
+        identifier = "home"
+        url = "/en/"
+        name = "Home"
+        weight = 1
+    [[languages.en.menu.main]]
+        identifier = "about"
+        url = "/en/about/"
+        name = "About"
+        weight = 2
+    [[languages.en.menu.main]]
+        identifier = "post"
+        url = "/en/posts/"
+        name = "Posts"
+        weight = 3
+    [[languages.en.menu.main]]
+        identifier = "donate"
+        url = "/en/donate/"
+        name = "Donate"
+        weight = 4
+    [[languages.en.menu.main]]
+        identifier = "store"
+        url = "/en/store/"
+        name = "My Store"
+        weight = 5
+    [[languages.en.menu.icon]]
+        url = "gg.taiphan@gmail.com"
+        name = "fas fa-envelope"
+        weight = 1
+    [[languages.en.menu.icon]]
+        url = "https://github.com/zenlunaris/"
+        name = "fab fa-github"
+        weight = 2
+    [[languages.en.menu.icon]]
+        url = "https://twitter.com/zenlunaris/"
+        name = "fab fa-twitter"
+        weight = 3
+    [[languages.en.menu.icon]]
+        url = "https://www.linkedin.com/in/taiphan0310/"
+        name = "fab fa-linkedin"
+        weight = 4
+    [[languages.en.menu.icon]]
+        url = "https://www.stackoverflow.com/zenlunaris/"
+        name = "fab fa-stack-overflow"
+        weight = 5
+    
+  [languages.vi]
+    flag = "./images/flag-vn.png"
+    languageName = 'VN'
+    languageCode = "vn-vi"
+    weight = 2
+    contentDir="content/vi"
+    [[languages.vi.menu.main]]
+        url = "/vi/"
+        name = "Trang chủ"
+        weight = 1
+    [[languages.vi.menu.main]]
+        url = "/vi/about/"
+        name = "Tôi là ai?"
+        weight = 2
+    [[languages.vi.menu.main]]
+        url = "/vi/posts/"
+        name = "Bài viết"
+        weight = 3
+    [[languages.vi.menu.main]]
+        url = "/vi/donate/"
+        name = "Ủng hộ tôi"
+        weight = 4
+    [[languages.vi.menu.main]]
+        url = "/vi/store/"
+        name = "Cửa hàng"
+        weight = 5
+    [[languages.vi.menu.icon]]
+        url = "gg.taiphan@gmail.com"
+        name = "fas fa-envelope"
+        weight = 1
+    [[languages.vi.menu.icon]]
+        url = "https://github.com/zenlunaris/"
+        name = "fab fa-github"
+        weight = 2
+    [[languages.vi.menu.icon]]
+        url = "https://twitter.com/zenlunaris/"
+        name = "fab fa-twitter"
+        weight = 3
+    [[languages.vi.menu.icon]]
+        url = "https://www.linkedin.com/in/taiphan0310/"
+        name = "fab fa-linkedin"
+        weight = 4
+    [[languages.vi.menu.icon]]
+        url = "https://www.stackoverflow.com/zenlunaris/"
+        name = "fab fa-stack-overflow"
+        weight = 5
+
+[params]
+    fontAwesomeKitCode = "5ed0ac4bf8"
+    dateFormat="2006-01-02 15:04:05"
+    allowDarkmode = true
+    author = "Zenlunaris"
+    description = "Personal blog for improving coding skills"
+    githubUsername = "#"
+    accent = "red"
+    showBorder = true
+    backgroundColor = "bg-white dark:bg-gray-700"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "php", "bash"]
+    copyright = "&copy; [KGames Playground](http://kgames.info). All rights reserved."
+
+[permalinks]
+    posts = ':slug'
+
+[sitemap]
+    changefreq = 'monthly'
+    filename = 'sitemap.xml'
+    priority = 0.5
