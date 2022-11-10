@@ -3,119 +3,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://zenlunaris.dev/vi/store/</loc>
+    <loc>https://zenlunaris.dev/vi/store/</loc>
     <lastmod>2022-05-25T17:02:50+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://zenlunaris.dev/en/store/"
+                href="https://zenlunaris.dev/en/store/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://zenlunaris.dev/vi/store/"
+                href="https://zenlunaris.dev/vi/store/"
                 />
   </url>
   
   <url>
-    <loc>http://zenlunaris.dev/vi/about/</loc>
+    <loc>https://zenlunaris.dev/vi/about/</loc>
     <lastmod>2022-05-25T16:39:36+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://zenlunaris.dev/en/about/"
+                href="https://zenlunaris.dev/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://zenlunaris.dev/vi/about/"
+                href="https://zenlunaris.dev/vi/about/"
                 />
   </url>
   
   <url>
-    <loc>http://zenlunaris.dev/vi/my-first-post/</loc>
-    <lastmod>2022-05-25T11:46:23+07:00</lastmod>
+    <loc>https://zenlunaris.dev/vi/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://zenlunaris.dev/en/my-first-post/"
+                href="https://zenlunaris.dev/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://zenlunaris.dev/vi/my-first-post/"
+                href="https://zenlunaris.dev/vi/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://zenlunaris.dev/vi/posts/</loc>
-    <lastmod>2022-05-25T11:46:23+07:00</lastmod>
+    <loc>https://zenlunaris.dev/vi/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://zenlunaris.dev/en/posts/"
+                href="https://zenlunaris.dev/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://zenlunaris.dev/vi/posts/"
+                href="https://zenlunaris.dev/vi/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://zenlunaris.dev/vi/</loc>
-    <lastmod>2022-05-25T11:46:23+07:00</lastmod>
+    <loc>https://zenlunaris.dev/vi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://zenlunaris.dev/en/"
+                href="https://zenlunaris.dev/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="http://zenlunaris.dev/vi/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://zenlunaris.dev/vi/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://zenlunaris.dev/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://zenlunaris.dev/vi/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://zenlunaris.dev/vi/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://zenlunaris.dev/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="http://zenlunaris.dev/vi/tags/"
+                href="https://zenlunaris.dev/vi/"
                 />
   </url>
   
