@@ -1,4 +1,4 @@
-baseURL = "https://gg.zenlunaris.dev/"  # "https://zenlunaris.github.io/"
+baseURL = "https://vn.zenlunaris.dev/"  # "https://zenlunaris.github.io/"
 languageCode = "en-us"
 title = "Zenlunaris"
 theme = "zenminimal"
