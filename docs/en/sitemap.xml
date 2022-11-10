@@ -3,84 +3,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zenlunaris.dev/en/store/</loc>
+    <loc>https://gg.zenlunaris.dev/en/store/</loc>
     <lastmod>2022-05-25T17:02:50+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://zenlunaris.dev/vi/store/"
+                href="https://gg.zenlunaris.dev/vi/store/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zenlunaris.dev/en/store/"
+                href="https://gg.zenlunaris.dev/en/store/"
                 />
   </url>
   
   <url>
-    <loc>https://zenlunaris.dev/en/about/</loc>
+    <loc>https://gg.zenlunaris.dev/en/about/</loc>
     <lastmod>2022-05-25T16:39:36+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://zenlunaris.dev/vi/about/"
+                href="https://gg.zenlunaris.dev/vi/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zenlunaris.dev/en/about/"
+                href="https://gg.zenlunaris.dev/en/about/"
                 />
   </url>
   
   <url>
-    <loc>https://zenlunaris.dev/en/categories/</loc>
+    <loc>https://gg.zenlunaris.dev/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://zenlunaris.dev/vi/categories/"
+                href="https://gg.zenlunaris.dev/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zenlunaris.dev/en/categories/"
+                href="https://gg.zenlunaris.dev/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://zenlunaris.dev/en/tags/</loc>
+    <loc>https://gg.zenlunaris.dev/en/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://zenlunaris.dev/vi/tags/"
+                href="https://gg.zenlunaris.dev/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zenlunaris.dev/en/tags/"
+                href="https://gg.zenlunaris.dev/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://zenlunaris.dev/en/</loc>
+    <loc>https://gg.zenlunaris.dev/en/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://zenlunaris.dev/vi/"
+                href="https://gg.zenlunaris.dev/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zenlunaris.dev/en/"
+                href="https://gg.zenlunaris.dev/en/"
                 />
   </url>
   
